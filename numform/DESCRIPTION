@@ -1,0 +1,9 @@
+Package: numform
+Type: Package
+Title: Convert numbers to a specific notation or format for printing
+Version: 1.0
+Date: 2014-06-19
+Author: Paul Thomas Britton
+Maintainer: Paul Thomas Britton <paul.t.britton@nasa.gov>
+Description: The functions in numform each take, as inputs, a number argument and a significant digits argument. As an output, they return a string in the format associated with the function. The functions are percentNotation(), sciNotation, oneinNotation and bothNotation. The logceiling() and logfloor() functions have only number as an input. Their output is the nearest order of magnitude either up or down according to the function.
+License: GPL-2
